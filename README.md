@@ -1,5 +1,5 @@
 <div align="center">
- https://github.com/lizloisalgopeers-code/EcoHack-AI/blob/cc6cabf19e67b26d57f0b54db045cdd26dc4647b/Screenshot%202026-07-04%20134217.png 
+<img src = "https://github.com/lizloisalgopeers-code/EcoHack-AI/blob/cc6cabf19e67b26d57f0b54db045cdd26dc4647b/Screenshot%202026-07-04%20134217.png" />
 </div>
 
 # Run and deploy your AI Studio app
