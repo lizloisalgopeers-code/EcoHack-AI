@@ -1,6 +1,7 @@
 <div align="center">
 <img src = "https://github.com/lizloisalgopeers-code/EcoHack-AI/blob/cc6cabf19e67b26d57f0b54db045cdd26dc4647b/Screenshot%202026-07-04%20134217.png" />
 </div>
+Hello user, these are the feature you will see in my app. HAVE FUN USING IT.
 
 # It has a box that you write that trash you have then then click get three hacks, then you the hack you choose which hack you want it also has the time you will take then it also has the materials you will need with the steps.
 # Then you will see the sorter section tha section tells you if your trash is recyclable or not.
